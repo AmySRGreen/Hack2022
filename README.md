@@ -9,15 +9,6 @@
 <p align='center'>Aplicación Web ✨ &nbsp;&nbsp;|&nbsp;&nbsp; Diseño amigable ✍🏼&nbsp;&nbsp;|&nbsp;&nbsp; Interactiva por el Usuario 💻</p>
 <br>
 
-## Este proyecto se realizo como proyecto participante en el hackaton 2022 de Durango.
-
-<img align='center' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/todos.jpeg" width="500" hight="100" />
-<br>
-**Turisteando** es una ✨ _App Web_ ✨ el cual consta  de un proyecto realizado por 5 integrantes del equipo el cual consta de 4 ingenieros y 1 matematico los cuales realizaron ideas muy interesantes para la solucion de la problematica planteada en este Hackaton 2022. Este proyecto se esta reprensentando por los participantes por parte de la Universidad Politecnica de Gomez Palacio.
-
-<img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="450" />
-<img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="450" /> 
-
 ---
 
 
@@ -45,6 +36,16 @@
 
 <br>
 
+---
+
+## Este proyecto se realizo como proyecto participante en el hackaton 2022 de Durango.
+
+<img align='center' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/todos.jpeg" width="500" hight="100" />
+<br>
+**Turisteando** es una ✨ _App Web_ ✨ el cual consta  de un proyecto realizado por 5 integrantes del equipo el cual consta de 4 ingenieros y 1 matematico los cuales realizaron ideas muy interesantes para la solucion de la problematica planteada en este Hackaton 2022. Este proyecto se esta reprensentando por los participantes por parte de la Universidad Politecnica de Gomez Palacio.
+
+<img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="450" />
+<img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="450" /> 
 
 ---
 
