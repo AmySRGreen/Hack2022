@@ -36,6 +36,12 @@
 
 <br>
 
+## Este proyecto se realizo como proyecto participante en el hackaton 2022 de Durango.
+
+***Un poco mas del proyecto...***
+<br>
+<p>El proyecto _Turisteando_ es una app web basada en el turismo en Durangoo, esta aplicacion consta de una aplicacion web la cual consta de elementos como mapas de google maps que generalmente es del estado de durango. En este se mostrara elementos de diferentes actividades que se pueden realizar en este estado y el usuario puede seleccionar para ver la informacion la cual es imagenes, decripcion, mapa y formas de llegar. Ahi puedes seleccionar si ya lo haz visitado para que se pasen a una interfaz donde cse mostraran todaas las que ha visitado el usuario, con esto se esta fomentando el turismo, la aplicacion aun necesita mas funcionalidades pero por lo pronto se tiene esto. E n un futuro se estara concretando en su totalidad el proyecto. </p>
+
 ---
 
 ## Este proyecto se realizo como proyecto participante en el hackaton 2022 de Durango.
@@ -43,17 +49,13 @@
 <img align='center' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/todos.jpeg" width="500" hight="100" />
 <br>
 **Turisteando** es una ✨ _App Web_ ✨ el cual consta  de un proyecto realizado por 5 integrantes del equipo el cual consta de 4 ingenieros y 1 matematico los cuales realizaron ideas muy interesantes para la solucion de la problematica planteada en este Hackaton 2022. Este proyecto se esta reprensentando por los participantes por parte de la Universidad Politecnica de Gomez Palacio.
-
+<div>
 <img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="450" />
 <img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="450" /> 
-
----
-
-***Un poco mas del proyecto...***
+</div>
 <br>
-<p>El proyecto _Turisteando_ es una app web basada en el turismo en Durangoo, esta aplicacion consta de una aplicacion web la cual consta de elementos como mapas de google maps que generalmente es del estado de durango. En este se mostrara elementos de diferentes actividades que se pueden realizar en este estado y el usuario puede seleccionar para ver la informacion la cual es imagenes, decripcion, mapa y formas de llegar. Ahi puedes seleccionar si ya lo haz visitado para que se pasen a una interfaz donde cse mostraran todaas las que ha visitado el usuario, con esto se esta fomentando el turismo, la aplicacion aun necesita mas funcionalidades pero por lo pronto se tiene esto. E n un futuro se estara concretando en su totalidad el proyecto. </p>
-
 
 ---
+
 ✨ Created by [@Fabiola Espinoza Roazales](https://github.com/fabyupgop), [@Victo Manuel Nuñez alas](https://github.com/VictorManuelSalas), [@Amanda Sanchez Rodriguez](https://github.com/AmySRGreen), Luz Cardiel y Juan. 
 
