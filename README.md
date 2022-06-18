@@ -1,7 +1,9 @@
+<img  src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/portada.png" width="170" />
+
 # Turisteando ✨
 
 <div align='center' >
-<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy7WD8EocPuoYHHcMJ3FWhJTRFS4LZi19Oq8cOLyfmhxLQTM8tAUmXmbLciyTdX8FbxYo&usqp=CAU" width="170" />
+<img  src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/icono.png" width="170" />
 </div>
 
 <p align='center'>Aplicación Web ✨ &nbsp;&nbsp;|&nbsp;&nbsp; Diseño amigable ✍🏼&nbsp;&nbsp;|&nbsp;&nbsp; Interactiva por el Usuario 💻</p>
