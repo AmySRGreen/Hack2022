@@ -15,8 +15,8 @@
 <br>
 **Turisteando** es una ✨ _App Web_ ✨ el cual consta  de un proyecto realizado por 5 integrantes del equipo el cual consta de 4 ingenieros y 1 matematico los cuales realizaron ideas muy interesantes para la solucion de la problematica planteada en este Hackaton 2022. Este proyecto se esta reprensentando por los participantes por parte de la Universidad Politecnica de Gomez Palacio.
 
-<img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="480" />
-<img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="480" /> 
+<img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="300" />
+<img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="300" /> 
 
 ---
 
