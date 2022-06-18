@@ -1,9 +1,9 @@
-<img  src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/portada.png" width="170" />
+<img  src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/portada.jpeg" hight="150" />
 
 # Turisteando ✨
 
 <div align='center' >
-<img  src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/icono.png" width="170" />
+<img  src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/icono%20(2).jpeg" width="170" />
 </div>
 
 <p align='center'>Aplicación Web ✨ &nbsp;&nbsp;|&nbsp;&nbsp; Diseño amigable ✍🏼&nbsp;&nbsp;|&nbsp;&nbsp; Interactiva por el Usuario 💻</p>
@@ -11,10 +11,14 @@
 
 ## Este proyecto se realizo como proyecto participante en el hackaton 2022 de Durango.
 
-**Turisteando** es una ✨ _App Web_ ✨ el cual consta  de un proyecto realizado por 5 integrantes del equipo el cual consta de 4 ingenieros y 1 matematico los cuales realizaron ideas muy interesantes para la solucion de la problematica planteada en este Hackaton 2022. 
+<img align='center' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/todos.jpeg" width="500" hight="100" />
+<br>
+**Turisteando** es una ✨ _App Web_ ✨ el cual consta  de un proyecto realizado por 5 integrantes del equipo el cual consta de 4 ingenieros y 1 matematico los cuales realizaron ideas muy interesantes para la solucion de la problematica planteada en este Hackaton 2022. Este proyecto se esta reprensentando por los participantes por parte de la Universidad Politecnica de Gomez Palacio.
 
+<img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="480" />
+<img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="480" /> 
 
-
+---
 
 
 ## ***Herramientas Utilizadas.***
@@ -44,9 +48,9 @@
 
 ---
 
-***Un poco de la empresa/negocio...***
+***Un poco mas del proyecto...***
 <br>
-<p>La cerrajeria Kyrios es un negocio que cuenta con una gran variedad de servicios que disponen a todo el publico, esta está localizada en el estado de Cuernavaca Morelos. Este cuenta con un solo dueño el cual es el señor Jose que lleva adelante de este negocio por mas de 10 años. </p>
+<p>El proyecto _Turisteando_ es una app web basada en el turismo en Durangoo, esta aplicacion consta de una aplicacion web la cual consta de elementos como mapas de google maps que generalmente es del estado de durango. En este se mostrara elementos de diferentes actividades que se pueden realizar en este estado y el usuario puede seleccionar para ver la informacion la cual es imagenes, decripcion, mapa y formas de llegar. Ahi puedes seleccionar si ya lo haz visitado para que se pasen a una interfaz donde cse mostraran todaas las que ha visitado el usuario, con esto se esta fomentando el turismo, la aplicacion aun necesita mas funcionalidades pero por lo pronto se tiene esto. E n un futuro se estara concretando en su totalidad el proyecto. </p>
 
 
 ---
