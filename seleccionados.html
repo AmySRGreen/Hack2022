@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <link rel="icon" href="./picture/icono.png">
+      <link rel="icon" href="./picture/icono.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Turisteando</title>
 
@@ -35,10 +35,7 @@
 <body class="hold-transition sidebar-mini layout-fixed">
     <div class="wrapper">
 
-        <!-- Preloader -->
-        <div class="preloader flex-column justify-content-center align-items-center">
-            <img class="animation__shake" src="./picture/icono.png" alt="Icono" height="100" width="100">
-        </div>
+
 
         <!-- Navbar -->
         <nav class="main-header navbar navbar-expand navbar-white navbar-light">
@@ -207,22 +204,24 @@
                         data-accordion="false">
                         <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
+
                         <li class="nav-item">
-                            <a href="pages/gallery.html" class="nav-link">
-                                <i class="nav-icon fa fa-home"></i>
-                                <p>
-                                    Home
-                                </p>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="./seleccionados.html" class="nav-link">
+                            <a href="#" class="nav-link">
                                 <i class="nav-icon fa fa-calendar"></i>
                                 <p>
                                     Visitados
                                 </p>
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a href="./index.html" class="nav-link">
+                                <i class="nav-icon fa fa-home"></i>
+                                <p>
+                                    Home
+                                </p>
+                            </a>
+                        </li>
+
                         <li class="nav-item">
                             <a href="pages/gallery.html" class="nav-link">
                                 <i class="nav-icon fa fa-male"></i>
@@ -266,224 +265,25 @@
             </div>
             <!-- /.content-header -->
 
-            <!--Mapa desaparecido-->
-            <div id="map">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99760.88475144561!2d-104.71776570491234!3d24.02283918089952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7a518bcdf73%3A0xbfdd8ea63a6c4ad4!2sDurango%2C%20Dgo.!5e1!3m2!1ses-419!2smx!4v1655565870568!5m2!1ses-419!2smx"
-                    width="100%" height="100%" style="border:100; " allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
+            <!--Mennu-->
 
+            <!--Menu Final-->
 
-            <div class="categorias">
-                <div id="comida" class="tipos">
-                    <img src="./picture/comida.jpeg" alt="comida">
-                    <div>
-                        <h2>Comida</h2>
-                        <p>La comida mas deliciosa que existe en estas regiones de Durango.</p>
-                    </div>
-                </div>
-
-                <div class="fondo_transparente">
-                    <div class="modal">
-                        <div class="modal_cerrar">
-                            <span>x</span>
-                        </div>
-                        <h2>Mercado Gómez Palacio</h2>
-                        <div class="carrusel">
-                            <div>
-                                <img src="./picture/mercado1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="./picture/mercado2.jpg" alt="">
-                            </div>
-                        </div>
-                        <p>Los accesos oriente y poniente de este lugar están decorados con sus respectivos frontones en
-                            donde se lee la fecha de 1881, año en que fue terminada su construcción.
-                            Dentro del mercado podrán encontrar artesanías, talabartería, yerberías, ropa típica,
-                            productos cárnicos y lácteos.
-                            Para quien se haya dejado llevar por la leyenda de <b>“la tierra de los alacranes”</b> y
-                            desee conocerlos, se encuentra en el lugar indicado.
-                            Adornando cuanto objeto podamos imaginar los encontraremos en relojes, cuadros decorativos,
-                            portallaveros, ceniceros, etc.</p>
-                        <div class="info">
-
-                            <div class="horarios">
-                                <h3>Horario</h3>
-                                <hr>
-                                <ul>
-                                    <li>Viernes a Sabado: 7:30 a 20:30 hrs.</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="mapa">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3117.4833565142067!2d-104.66906198553886!3d24.02466548416151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bc822785ad2b9%3A0x3f9f9688bd14a9c5!2sMercado%20Gomez%20Palacio!5e1!3m2!1ses-419!2smx!4v1655570755785!5m2!1ses-419!2smx"
-                                width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
-                        <div class="imglogos">
-                            <img src="./picture/uber.png" alt="">
-                            <img src="./picture/didi.png" alt="">
-                        </div>
-                        <br>
-                        <div style="display:flex; justify-content: center; align-items: center;">
-                            <input  type="checkbox" name="visitor" id="25">
-                            <label for="25"> Visté este lugar</label>
-                        </div>
-                        
-                    </div>
-
-
-                </div>
-
-
-                <div id="entretenimento" class="tipos">
-                    <img src="./picture/entreteniemiento.jpeg" alt="entretenimiento">
-                    <div>
-                        <h2>Entretenimiento</h2>
-                        <p>Diviertete con la variedad de eventos y locales de entretenimiento de Durango.</p>
-                    </div>
-                </div>
-                <div class="fondo_transparente2">
-                    <div class="modal">
-                        <div class="modal_cerrar2">
-                            <span>x</span>
-                        </div>
-                        <h2>Paseo del Viejo Oeste</h2>
-                        <div class="carrusel">
-                            <div>
-                                <img src="./picture/1.jpeg" alt="">
-                            </div>
-                            <div>
-                                <img src="./picture/2.jpeg" alt="">
-                            </div>
-                            <div>
-                                <img src="./picture/3.jpeg" alt="">
-                            </div>
-
-                        </div>
-
-                        <p> Escenario de decenas de películas, se construyó en la década de los sesentas, y fue hasta
-                            1971 cuando se filmó la primera producción grande llamada “Odio en las Praderas” con Sidney
-                            Portier y Harry Belafonte. </p>
-
-
-                        <div class="info">
-                            <div class="costo">
-                                <h3>Costos</h3>
-                                <hr>
-                                <ul>
-                                    <li>Adultos: $50.00</li>
-                                    <li>Niños (3 - 10 años): $30.00</li>
-                                </ul>
-                            </div>
-                            <div class="horarios">
-                                <h3>Horarios</h3>
-                                <hr>
-                                <ul>
-                                    <li>Vacaciones: Lunes a Viernes 2:30 y 4:30 hrs.</li>
-                                    <li>Espectáculo: Sábados y Domingos 1:30, 3:30 y 5:30 hrs.</li>
-                                </ul>
-                            </div>
-                        </div>
-                          <div class="mapa">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3115.4214021951198!2d-104.70117318553729!3d24.109542580879506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bc96d7a9c5fcf%3A0xe24c5e8385aa91f9!2sPaseo%20del%20Viejo%20Oeste!5e1!3m2!1ses-419!2smx!4v1655572870432!5m2!1ses-419!2smx"
-                                width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
-                        <div class="imglogos">
-                            <img src="./picture/uber.png" alt="">
-                            <img src="./picture/didi.png" alt="">
-                        </div>
-                        <br>
-                        <div style="display:flex; justify-content: center; align-items: center; cursor: pointer;">
-                            <input  type="checkbox" name="visitor" id="2">
-                            <label for="2"> Visté este lugar</label>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div id="cultura" class="tipos">
-                    <img src="./picture/cultura.jpeg" alt="cultura">
-                    <div>
-                        <h2>Cultura</h2>
-                        <p>Ven y conoce las diferentes culturas que se tienen en el estado de Durango.</p>
-                    </div>
-                </div>
-                <div class="fondo_transparente3">
-                    <div class="modal">
-                        <div class="modal_cerrar3">
-                            <span>x</span>
-                        </div>
-                        <h2>Paseo Constitución</h2>
-                        <div class="carrusel">
-                            <div>
-                                <img src="./picture/paseo1.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="./picture/paseo2.jpg" alt="">
-                            </div>
-                            <div>
-                                <img src="./picture/paseo3.png.crdownload" alt="">
-                            </div>
-                            <div>
-                                <img src="./picture/paseo4.jpg" alt="">
-                            </div>
-
-                        </div>
-
-                        <p> Ubicado en el Centro Histórico de la ciudad. Enmarcada por majestuosos edificios remozados e
-                            iluminados, en el corazón del Centro
-                            Histórico duranguense, varias cuadras de la calle Constitución son ahora un corredor
-                            peatonal para el disfrute de propios y extraños, en cuyo trayecto se puede encontrar
-                            establecimientos de todo tipo, sobre todo los fines de semana, se ofrecen una gran
-                            diversidad
-                            de espectáculos culturales de gran nivel y para todos los gustos. Y por si fuera poco, es en
-                            este corredor también donde se encuentra el mirador desde el que, en la noche, podrá
-                            apreciar la silueta de la monja Beatriz que hace referencia a la
-                            <b>“Leyenda de la Monja de Catedral”</b>, uno de esos misterios que encierra esta tierra de
-                            gente amable y servicial.
-                        </p>
-                        <div class="mapa">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3117.3609486308674!2d-104.67317298553876!3d24.029712083966707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bc83ca9b4bde7%3A0xec4f04c9526a7ef8!2sPaseo%20Constitucion!5e1!3m2!1ses-419!2smx!4v1655573051572!5m2!1ses-419!2smx"
-                                width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        </div>
-                        <div class="imglogos">
-                            <img src="./picture/uber.png" alt="">
-                            <img src="./picture/didi.png" alt="">
-                        </div>
-                        <br>
-                        <div style="display:flex; justify-content: center; align-items: center; cursor: pointer;">
-                            <input  type="checkbox" name="visitor" id="3">
-                            <label for="3"> Visté este lugar</label>
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>
         </div>
-    </div>
-    </div>
-    <!-- /.content-wrapper -->
-    <footer class="main-footer">
-        <strong>Copyright &copy; 2022 <a href="https://adminlte.io">Turisteando</a>.</strong>
-        All rights reserved.
-        <div class="float-right d-none d-sm-inline-block">
-            <b>Version</b> 0.0.1
-        </div>
-    </footer>
+        <!-- /.content-wrapper -->
+        <footer class="main-footer">
+            <strong>Copyright &copy; 2022 <a href="https://adminlte.io">Turisteando</a>.</strong>
+            All rights reserved.
+            <div class="float-right d-none d-sm-inline-block">
+                <b>Version</b> 0.0.1
+            </div>
+        </footer>
 
-    <!-- Control Sidebar -->
-    <aside class="control-sidebar control-sidebar-dark">
-        <!-- Control sidebar content goes here -->
-    </aside>
-    <!-- /.control-sidebar -->
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
     </div>
     <!-- ./wrapper -->
     <script src="./dist/js/modal.js"></script>
