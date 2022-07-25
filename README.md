@@ -53,8 +53,8 @@
 <br>
 <br>
 <div margin='10rem'>
-<img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="450" />
-<img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="450" /> 
+<img align='left' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes.jpeg"  width="400" />
+<img align='right' src="https://github.com/AmySRGreen/Hack2022/blob/demo/picture/integrantes%20(2).jpeg" width="400" /> 
 </div>
 <br>
 <br>
