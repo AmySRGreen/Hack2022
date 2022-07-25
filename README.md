@@ -60,7 +60,19 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<br>
+<br>
 ---
+<br>
+<br>
 <p>✨ Created by [@Fabiola Espinoza Roazales](https://github.com/fabyupgop), [@Victo Manuel Nuñez alas](https://github.com/VictorManuelSalas), [@Amanda Sanchez Rodriguez](https://github.com/AmySRGreen), Luz Cardiel y Juan. </p>
   
 
