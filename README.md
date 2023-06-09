@@ -20,7 +20,6 @@
 <img  src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" width="150" />
 <img  src="https://www.disenowebwordpress.com/wp-content/uploads/2018/08/animationJS.gif" width="150" />
 <img  src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif" width="150" />
-<img  src="https://pbs.twimg.com/profile_images/1457795334814326785/51T6idIA_400x400.png" width="150" />
 <img  src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif" width="150" />
 
   </div>
